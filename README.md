@@ -22,7 +22,7 @@ The dataset `lifestyle_fitness_data.csv` contains the following columns:
 | WaterIntake     | Daily water intake in liters                      |
 | MoodScore       | Daily mood rating on a scale from 1 to 10        |
 
-> Note: The dataset is synthetically generated using Python's `random` module to simulate real-world fitness and lifestyle data.
+> Note: The dataset is synthetically generated using Python to simulate real-world fitness and lifestyle data.
 
 ## Visualizations
 The following visual analyses are included in this project:
